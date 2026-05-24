@@ -3,7 +3,7 @@
 Dashboard de cobrança e inadimplência com dados de clientes CPF.  
 Desenvolvido para análise de performance, faixas de atraso e recuperação financeira.
 
-![Dashboard Preview](préviaDaDash.png)
+![Dashboard Preview](previewDaDash.png)
 
 ---
 
